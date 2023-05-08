@@ -1,0 +1,16 @@
+# Python files
+*.pyc
+__pycache__/
+
+# Robot Framework output files
+output.xml
+log.html
+report.html
+
+# Test data
+*.csv
+*.xlsx
+*.json
+
+# Virtual environment
+venv/
